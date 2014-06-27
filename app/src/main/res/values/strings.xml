@@ -4,5 +4,8 @@
     <string name="app_name">Clockie</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="never">Never</string>
+    <string name="every_day">Every Day</string>
+    <string name="day_concat">Concat</string>
 
 </resources>
